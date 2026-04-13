@@ -1,4 +1,5 @@
-assets/1. Cover-1-1 tif-1.jpg
+![Exploring Java Libraries Book Cover](assets/1. Cover-1-1 tif-1.jpg)
+
 # Exploring Java Libraries – Free Code Examples & Companion Resources
 
 Selected Java code examples and companion resources for **Exploring Java Libraries: A Developer’s Guide** by **Solis Dynamics**.
