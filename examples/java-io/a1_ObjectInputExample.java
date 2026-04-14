@@ -84,4 +84,6 @@ public class a1_ObjectInputExample {
         System.out.print(label + ": ");  
         for (byte b : array) {  
             System.out.print(b + " "); }  
-        System.out.println(); } }
+        System.out.println(); 
+    } 
+}
