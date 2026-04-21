@@ -32,7 +32,6 @@ If you want the complete guide, you can get the full book here:
 - Leanpub: https://leanpub.com/java-libraries-guide
 - Gumroad: https://solisdynamics.gumroad.com/l/java-libraries-guide
 - Amazon: https://www.amazon.com/dp/B0GWWXB5BV
-- Google Play Books: https://play.google.com/store/books/details?id=xKDPEQAAQBAJ
 
 ## About the book
 
