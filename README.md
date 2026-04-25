@@ -113,7 +113,7 @@ A complete **java concurrency guide** with real-world thread management examples
 
 ## Get the Full Book
 Take the next step and unlock the complete structured guide:
-* 🔗**Gumroad:** https://solisdynamics.gumroad.com/l/java-libraries-guide
+* 🔗**Gumroad:** https://solisdynamics.gumroad.com/l/java-libraries-guide-1
 * 🔗**Leanpub:** https://leanpub.com/java-libraries-guide
 * 🔗**Amazon:** https://www.amazon.com/dp/B0GWWXB5BV
 
