@@ -14,6 +14,7 @@
 
 ---
 
+
 ### Real-World Java Code & Companion Resources
 
 Practical Java examples covering **core libraries, concurrency, file systems, and runtime behavior**, designed for developers who want to master Java beyond theory.
@@ -111,13 +112,16 @@ A complete **java concurrency guide** with real-world thread management examples
 
 ---
 
-## Get the Full Book
-Take the next step and unlock the complete structured guide:
-* 🔗**Gumroad:** https://solisdynamics.gumroad.com/l/java-libraries-guide-1
-* 🔗**Leanpub:** https://leanpub.com/java-libraries-guide
-* 🔗**Amazon:** https://www.amazon.com/dp/B0GWWXB5BV
+## 📘 Get the Full Book
+Take the next step and unlock the complete structured guide to master Java like a professional.
 
-Build a rock-solid foundation and understand how Java works under the hood — the way professional developers do.
+| Platform | Link |
+| :--- | :--- |
+| **Gumroad** | [![Gumroad](https://img.shields.io/badge/Get_on-Gumroad-gold?style=for-the-badge&logo=gumroad)](https://solisdynamics.gumroad.com/l/java-libraries-guide-1) |
+| **Leanpub** | [![Leanpub](https://img.shields.io/badge/Get_on-Leanpub-red?style=for-the-badge&logo=leanpub)](https://leanpub.com/java-libraries-guide) |
+| **Amazon** | [![Amazon](https://img.shields.io/badge/Get_on-Amazon-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GWWXB5BV) |
+
+> **Build a rock-solid foundation** and understand how Java works under the hood — the way professional developers do.
 
 ---
 
